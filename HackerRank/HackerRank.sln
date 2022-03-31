@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoadRepair", "..\RoadRepair
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DailyTasks", "..\DailyTasks\DailyTasks.csproj", "{87213DEC-7C59-49B8-9000-7C0868CD99E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 8 Dictionaries and Maps", "..\Day 8 Dictionaries and Maps\Day 8 Dictionaries and Maps.csproj", "{A980F632-1C22-47FF-BF06-1BD945FDE5B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 8 Dictionaries and Maps", "..\Day 8 Dictionaries and Maps\Day 8 Dictionaries and Maps.csproj", "{A980F632-1C22-47FF-BF06-1BD945FDE5B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 9 Recursion 3", "..\Day 9 Recursion 3\Day 9 Recursion 3.csproj", "{EC43521C-9DD8-4A78-83C3-F0ABC15850B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A980F632-1C22-47FF-BF06-1BD945FDE5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A980F632-1C22-47FF-BF06-1BD945FDE5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A980F632-1C22-47FF-BF06-1BD945FDE5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC43521C-9DD8-4A78-83C3-F0ABC15850B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC43521C-9DD8-4A78-83C3-F0ABC15850B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC43521C-9DD8-4A78-83C3-F0ABC15850B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC43521C-9DD8-4A78-83C3-F0ABC15850B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
