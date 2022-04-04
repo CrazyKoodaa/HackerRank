@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 10 Binary Numbers", "..
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 11 2D Arrays", "..\Day 11 2D Arrays\Day 11 2D Arrays.csproj", "{652CD87D-1860-495F-AD7C-B17B2387ED08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 12 Inheritance", "..\Day 12 Inheritance\Day 12 Inheritance.csproj", "{952F9A38-F039-4B18-9FC4-01D8C2B02354}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 12 Inheritance", "..\Day 12 Inheritance\Day 12 Inheritance.csproj", "{952F9A38-F039-4B18-9FC4-01D8C2B02354}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 13 Abstract Classes", "..\Day 13 Abstract Classes\Day 13 Abstract Classes.csproj", "{8019C55F-4934-472A-95B4-54AE9050E582}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{952F9A38-F039-4B18-9FC4-01D8C2B02354}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{952F9A38-F039-4B18-9FC4-01D8C2B02354}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{952F9A38-F039-4B18-9FC4-01D8C2B02354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8019C55F-4934-472A-95B4-54AE9050E582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8019C55F-4934-472A-95B4-54AE9050E582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8019C55F-4934-472A-95B4-54AE9050E582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8019C55F-4934-472A-95B4-54AE9050E582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
