@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 14 Scopes", "..\Day 14 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 15 Linked List", "..\Day 15 Linked List\Day 15 Linked List.csproj", "{0A10C9AE-6DF0-49BB-80AB-B3F582A60CA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 16 Exceptions string to int", "..\Day 16 Exceptions string to int\Day 16 Exceptions string to int.csproj", "{4927D788-828B-4EDF-AFFF-F39C86A8B6B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{0A10C9AE-6DF0-49BB-80AB-B3F582A60CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A10C9AE-6DF0-49BB-80AB-B3F582A60CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A10C9AE-6DF0-49BB-80AB-B3F582A60CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4927D788-828B-4EDF-AFFF-F39C86A8B6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4927D788-828B-4EDF-AFFF-F39C86A8B6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4927D788-828B-4EDF-AFFF-F39C86A8B6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4927D788-828B-4EDF-AFFF-F39C86A8B6B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
