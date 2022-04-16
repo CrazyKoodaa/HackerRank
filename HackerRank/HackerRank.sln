@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 22 Binary Search Trees"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 23 BST Level-Order Traversal", "..\Day 23 BST Level-Order Traversal\Day 23 BST Level-Order Traversal.csproj", "{3808897B-028E-4A48-966B-A8FB9196FB74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 24 More Linked List", "..\Day 24 More Linked List\Day 24 More Linked List.csproj", "{CD848A12-6E55-4302-AF2C-EC0D95645791}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 24 More Linked List", "..\Day 24 More Linked List\Day 24 More Linked List.csproj", "{CD848A12-6E55-4302-AF2C-EC0D95645791}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 25 Running Time and Complexity", "..\Day 25 Running Time and Complexity\Day 25 Running Time and Complexity.csproj", "{B8EF8136-C183-43F3-92B2-96A3D446C327}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -307,6 +309,18 @@ Global
 		{CD848A12-6E55-4302-AF2C-EC0D95645791}.Release|x64.Build.0 = Release|Any CPU
 		{CD848A12-6E55-4302-AF2C-EC0D95645791}.Release|x86.ActiveCfg = Release|Any CPU
 		{CD848A12-6E55-4302-AF2C-EC0D95645791}.Release|x86.Build.0 = Release|Any CPU
+		{B8EF8136-C183-43F3-92B2-96A3D446C327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EF8136-C183-43F3-92B2-96A3D446C327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EF8136-C183-43F3-92B2-96A3D446C327}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B8EF8136-C183-43F3-92B2-96A3D446C327}.Debug|x64.Build.0 = Debug|Any CPU
+		{B8EF8136-C183-43F3-92B2-96A3D446C327}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B8EF8136-C183-43F3-92B2-96A3D446C327}.Debug|x86.Build.0 = Debug|Any CPU
+		{B8EF8136-C183-43F3-92B2-96A3D446C327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EF8136-C183-43F3-92B2-96A3D446C327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EF8136-C183-43F3-92B2-96A3D446C327}.Release|x64.ActiveCfg = Release|Any CPU
+		{B8EF8136-C183-43F3-92B2-96A3D446C327}.Release|x64.Build.0 = Release|Any CPU
+		{B8EF8136-C183-43F3-92B2-96A3D446C327}.Release|x86.ActiveCfg = Release|Any CPU
+		{B8EF8136-C183-43F3-92B2-96A3D446C327}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
