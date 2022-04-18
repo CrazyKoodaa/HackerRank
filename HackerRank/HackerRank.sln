@@ -47,7 +47,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 24 More Linked List", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 25 Running Time and Complexity", "..\Day 25 Running Time and Complexity\Day 25 Running Time and Complexity.csproj", "{B8EF8136-C183-43F3-92B2-96A3D446C327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day 26 Nested Logic", "..\Day 26 Nested Logic\Day 26 Nested Logic.csproj", "{8ACF6CAB-E72E-47CD-9774-7F63228F9C4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day 26 Nested Logic", "..\Day 26 Nested Logic\Day 26 Nested Logic.csproj", "{8ACF6CAB-E72E-47CD-9774-7F63228F9C4F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Day 27 Testing", "..\Day 27 Testing\Day 27 Testing.vcxproj", "{20D930B5-E674-4758-BEA2-26A3EA91F9B0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Day 27 Testing - Python", "..\Day 27 Testing - Python\Day 27 Testing - Python.pyproj", "{EA15ADDD-B536-4745-A057-2E161FC26B2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -335,6 +339,24 @@ Global
 		{8ACF6CAB-E72E-47CD-9774-7F63228F9C4F}.Release|x64.Build.0 = Release|Any CPU
 		{8ACF6CAB-E72E-47CD-9774-7F63228F9C4F}.Release|x86.ActiveCfg = Release|Any CPU
 		{8ACF6CAB-E72E-47CD-9774-7F63228F9C4F}.Release|x86.Build.0 = Release|Any CPU
+		{20D930B5-E674-4758-BEA2-26A3EA91F9B0}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{20D930B5-E674-4758-BEA2-26A3EA91F9B0}.Debug|Any CPU.Build.0 = Debug|x64
+		{20D930B5-E674-4758-BEA2-26A3EA91F9B0}.Debug|x64.ActiveCfg = Debug|x64
+		{20D930B5-E674-4758-BEA2-26A3EA91F9B0}.Debug|x64.Build.0 = Debug|x64
+		{20D930B5-E674-4758-BEA2-26A3EA91F9B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{20D930B5-E674-4758-BEA2-26A3EA91F9B0}.Debug|x86.Build.0 = Debug|Win32
+		{20D930B5-E674-4758-BEA2-26A3EA91F9B0}.Release|Any CPU.ActiveCfg = Release|x64
+		{20D930B5-E674-4758-BEA2-26A3EA91F9B0}.Release|Any CPU.Build.0 = Release|x64
+		{20D930B5-E674-4758-BEA2-26A3EA91F9B0}.Release|x64.ActiveCfg = Release|x64
+		{20D930B5-E674-4758-BEA2-26A3EA91F9B0}.Release|x64.Build.0 = Release|x64
+		{20D930B5-E674-4758-BEA2-26A3EA91F9B0}.Release|x86.ActiveCfg = Release|Win32
+		{20D930B5-E674-4758-BEA2-26A3EA91F9B0}.Release|x86.Build.0 = Release|Win32
+		{EA15ADDD-B536-4745-A057-2E161FC26B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA15ADDD-B536-4745-A057-2E161FC26B2B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EA15ADDD-B536-4745-A057-2E161FC26B2B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EA15ADDD-B536-4745-A057-2E161FC26B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA15ADDD-B536-4745-A057-2E161FC26B2B}.Release|x64.ActiveCfg = Release|Any CPU
+		{EA15ADDD-B536-4745-A057-2E161FC26B2B}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
